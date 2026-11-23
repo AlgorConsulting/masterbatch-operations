@@ -1,6 +1,7 @@
 # Masterbatch Plant Network: Daily Plant Report, Production & Maintenance Dashboard (Sample)
 
 Live: https://algorconsulting.github.io/masterbatch-operations/
+Book a call: https://calendar.app.google/xiyrXcRKc4dQfyF88
 Demo video (1 min): https://algorconsulting.github.io/masterbatch-operations/demo/
 
 A representational sample built by ALGOR Consulting Group (https://www.algor-consulting.com/). All production, quality, maintenance, inventory and dispatch figures are synthetic and illustrative; no client data is used.
